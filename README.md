@@ -17,15 +17,6 @@ It is designed for users who want to participate in ARC Testnet activity without
 
 ## 📦 Files in This Repository
 
-## Tempo Moderato Testnet
 
-All contracts and transactions in this repository
-were redeployed and tested on the Tempo Moderato testnet.
-
-This includes:
-- Fresh TIP-20 deployment
-- Memo-based payments
-- Invoice payment flow
-- Multi-address interaction
 
 
